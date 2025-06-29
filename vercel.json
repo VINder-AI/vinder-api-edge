@@ -3,7 +3,7 @@
   "routes": [
     {
       "src": "/api/chat",
-      "dest": "app/api/chat/route.ts"
+      "dest": "/app/api/chat/route.ts"
     }
   ]
 }
